@@ -10,12 +10,16 @@ To set up the bot with existing texts, download a .txt from this repo and place 
 
 1. Run Pulover's Macro Creator as administrator and open the matching .pmc file.
 
-2. Press the white play button inside the blue circle.
+2. Press the white play button inside the blue circle. (Shown below)
+![image](https://github.com/user-attachments/assets/13b713c3-4bd6-42ae-8435-d06e224f4989)
 
-3. Go into the instance of ROTMG that you plan on chatting from. Go to Settings>Controls>Social and bind Activate Chat to \ (backslash, |)
+4. Go into the instance of ROTMG that you plan on chatting from. Go to Settings>Controls>Social and bind Activate Chat to \ (backslash, |)
 *if you want to paste into guild chat, bind "Begin Guild Chat" to \ instead*
 
-5. Press the blue play button. This CANNOT BE STOPPED UNTIL IT IS COMPLETED without going into task manager, which is pretty difficult while it's spamming inputs.
+5. On the small floating menu, press the blue play button. (Shown Below)
+![image](https://github.com/user-attachments/assets/7e015401-efaf-4861-867a-1402444aeeed)
+
+**This CANNOT BE STOPPED UNTIL IT IS COMPLETED without going into task manager, which is pretty difficult while it's spamming inputs.**
 
 ## Setup - Custom Text
 
