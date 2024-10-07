@@ -4,7 +4,7 @@ Simple Chatbots created using Pulover's Macro Creator
 
 Download Pulover's Macro Creator [here](https://www.macrocreator.com/download/).
 
-Beware, the bible paste lasts **6.19 days.** You have been warned.
+### Beware, the bible paste lasts ***6.19 DAYS.*** You have been warned.
 
 ## Setup - Existing Text
 
