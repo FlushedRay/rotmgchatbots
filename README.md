@@ -15,7 +15,7 @@ To set up the bot with existing texts, download a .txt from this repo and place 
 ![image](https://github.com/user-attachments/assets/13b713c3-4bd6-42ae-8435-d06e224f4989)
 
 4. Go into the instance of ROTMG that you plan on chatting from. Go to Settings>Controls>Social and bind Activate Chat to \ (backslash, |)
-*if you want to paste into guild chat, bind "Begin Guild Chat" to \ instead. Make sure you unbind enter from starting chat, or else it will break.*
+*if you want to paste into guild chat, bind "Begin Guild Chat" to \ instead. Make sure you unbind enter from activate chat, or else it will break.*
 
 5. On the small floating menu, press the blue play button. (Shown Below)
 
@@ -65,7 +65,7 @@ To set up the bot with existing texts, download a .txt from this repo and place 
 2. Open PMC as administrator and open ``customtext.pmc``
 
 3. Go into the instance of ROTMG that you plan on chatting from. Go to Settings>Controls>Social and bind Activate Chat to \ (backslash, |)
-*if you want to paste into guild chat, bind "Begin Guild Chat" to \ instead. Make sure you unbind enter from starting chat, or else it will break.*
+*if you want to paste into guild chat, bind "Begin Guild Chat" to \ instead. Make sure you unbind enter from actiavte chat, or else it will break.*
 
 4. Press the white play button inside the blue circle. (Shown below)
 
