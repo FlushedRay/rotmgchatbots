@@ -3,7 +3,8 @@
 Context=None|
 Groups=Start:1
 1|[Pause]||1|5000|Sleep|||||1|
-2|FileRead|customtext, c:\customtext.txt|1|0|FileRead|||||2|
-3|[Text]|%customtext%|1|100|SendEvent|||||3|
-4|[MsgBox]|Paste Complete!|1|0|MsgBox|64|FlushedRay's ROTMG Chatbot|||7|
+2|[Text]|\|1|0|SendRaw||||||
+3|FileRead|customtext, c:\customtext.txt|1|0|FileRead|||||2|
+4|[Text]|%customtext%|1|100|SendEvent|||||3|
+5|[MsgBox]|Paste Complete!|1|0|MsgBox|64|FlushedRay's ROTMG Chatbot|||7|
 
