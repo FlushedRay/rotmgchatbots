@@ -1,0 +1,11 @@
+﻿[PMC Globals]|None||
+[PMC Code v5.4.1]|F3|Numpad5|1|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro1
+Context=None|
+Groups=Start:1
+1|Enter|{Enter}|1|0|Send|||||1|
+2|[Pause]||1|300|Sleep|||||2|
+3|[LoopStart]|LoopStart|0|0|Loop|||||3|
+4|FileRead|qurantext, c:\quran.txt|1|0|FileRead|||||5|
+5|[Text]|%qurantext%|1|125|SendEvent|||||6|
+6|[LoopEnd]|LoopEnd|1|0|Loop|||||10|
+
