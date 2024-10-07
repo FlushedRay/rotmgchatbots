@@ -38,16 +38,17 @@ To set up the bot with existing texts, download a .txt from this repo and place 
 ### B. If you are formatting text that DOES NOT have line breaks, or the line breaks are too sparse, do the following:
 *note: this will not look very good and words will be chopped in half quite often.*
 
-Go to https://phrasefix.com/tools/add-string-after-number-of-characters/
-In the top box, paste your text.
+1. Go to https://phrasefix.com/tools/add-string-after-number-of-characters/ \
 
-1. Put ``{enter}{enter}\`` in the "Custom Append Text" box
+2. In the top box, paste your text.
 
-2. Set "Append after this many characters" to 128
+3. Put ``{enter}{enter}\`` in the "Custom Append Text" box
 
-3. Turn on "Reset Counter After Line Break"
+4. Set "Append after this many characters" to 128
 
-4. Do steps in section C.
+5. Turn on "Reset Counter After Line Break"
+
+6. Do steps in section C.
 
 ### C. Running the custom text macro
 
