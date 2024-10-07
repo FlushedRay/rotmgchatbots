@@ -11,12 +11,16 @@ To set up the bot with existing texts, download a .txt from this repo and place 
 1. Run Pulover's Macro Creator as administrator and open the matching .pmc file.
 
 2. Press the white play button inside the blue circle. (Shown below)
+
 ![image](https://github.com/user-attachments/assets/13b713c3-4bd6-42ae-8435-d06e224f4989)
 
 4. Go into the instance of ROTMG that you plan on chatting from. Go to Settings>Controls>Social and bind Activate Chat to \ (backslash, |)
 *if you want to paste into guild chat, bind "Begin Guild Chat" to \ instead*
 
-5. On the small floating menu, press the blue play button. (Shown Below) **Immediately click on the ROTMG window. Paste will begin in 5 seconds.**
+5. On the small floating menu, press the blue play button. (Shown Below)
+
+**Immediately click on the ROTMG window. Paste will begin in 5 seconds.**
+
 ![image](https://github.com/user-attachments/assets/7e015401-efaf-4861-867a-1402444aeeed)
 
 **This CANNOT BE STOPPED UNTIL IT IS COMPLETED without going into task manager, which is pretty difficult while it's spamming inputs.**
@@ -63,6 +67,15 @@ To set up the bot with existing texts, download a .txt from this repo and place 
 3. Go into the instance of ROTMG that you plan on chatting from. Go to Settings>Controls>Social and bind Activate Chat to \ (backslash, |)
 *if you want to paste into guild chat, bind "Begin Guild Chat" to \ instead*
 
-4. Press the blue play button. This CANNOT BE STOPPED UNTIL IT IS COMPLETED without going into task manager, which is pretty difficult while it's spamming inputs.
+4. Press the white play button inside the blue circle. (Shown below)
+
+![image](https://github.com/user-attachments/assets/13b713c3-4bd6-42ae-8435-d06e224f4989)
+
+5. Press the blue play button. (Shown Below)
+
+**Immediately click on the ROTMG window. Paste will begin in 5 seconds.**
+ ![image](https://github.com/user-attachments/assets/7e015401-efaf-4861-867a-1402444aeeed)
+
+**This CANNOT BE STOPPED UNTIL IT IS COMPLETED without going into task manager, which is pretty difficult while it's spamming inputs.**
 
 # DO NOT DISTRIBUTE OR EDIT MY MACROS WITHOUT CREDITING ME PLEASE! YOU CAN EDIT THEM AND DO WHATEVER YOU WANT TO THEM, JUST CREDIT ME! 
