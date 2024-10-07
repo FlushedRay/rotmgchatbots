@@ -31,7 +31,7 @@ To set up the bot with existing texts, download a .txt from this repo and place 
 
 ### A. If you are formatting an existing text to work with the script that has line breaks (such as a novel, or the bible) do the following:
 
-1. Confirm that no lines stretch past the character limit of 128 characters.
+1. Confirm that no lines stretch past the character limit of 128 characters. (125 if using guild chat)
 
 2. Go to https://onlinetexttools.com/replace-line-breaks-in-text
 
@@ -52,7 +52,7 @@ To set up the bot with existing texts, download a .txt from this repo and place 
 
 3. Put ``{enter}{enter}\`` in the "Custom Append Text" box
 
-4. Set "Append after this many characters" to 128
+4. Set "Append after this many characters" to 128 (125 if using guild chat)
 
 5. Turn on "Reset Counter After Line Break"
 
